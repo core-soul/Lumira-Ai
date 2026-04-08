@@ -13,7 +13,7 @@ jobs:
 
       - name: Unzip project
         run: |
-          unzip unzip lumira_clean.zip -d .
+          unzip lumira_clean.zip -d .
           mv project/* .
           rm -rf project
 
