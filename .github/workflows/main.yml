@@ -13,7 +13,7 @@ jobs:
 
       - name: Unzip project
         run:
-          unzip lumira_clean_v2.zip -d .
+          unzip lumira_clean_v3.zip -d .
           
          
 
